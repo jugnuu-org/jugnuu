@@ -24,7 +24,13 @@
     "title": "About",
     "sections": [
       {
-        "title": "Problem Statement",
+        "title": "Our Focus: Karachi",
+        "paragraphs": [
+          "Karachi, Pakistan’s largest city and economic powerhouse, contributes 60% of the country’s GDP. As the nation’s commercial hub, it provides abundant employment opportunities, making it an ideal starting point for our program. By launching this initiative in Karachi, we aim to create pathways for our graduates to secure meaningful employment and build brighter futures, while addressing the city’s pressing educational challenges. Karachi’s strategic significance makes it the perfect foundation to ignite this transformative project."
+        ]
+      },
+      {
+        "title": "The Challenge",
         "paragraphs": [
           "Pakistan faces a profound education crisis, with over 30 million children deprived of schooling. In Karachi alone, more than 5 million children are disengaged or disconnected from education. The majority are unable to attend school due to poverty, limited access to quality schools, and deep-rooted socio-economic inequalities. These barriers not only rob children of opportunities but also trap them in cycles of hardship, making them vulnerable to exploitation, crime, and a future devoid of hope.",
           "This alarming reality fuels the nation’s 60% illiteracy rate, undermining social and economic progress and weakening Pakistan’s potential as a thriving nation-state. Despite its critical importance, the issue of illiteracy remains unaddressed, particularly in Karachi. The growing number of out-of-school children threatens not only their future but also the fabric of society. Without education, these children are at greater risk of falling into cycles of poverty, crime, and social unrest, deepening Pakistan’s ongoing crises.",
@@ -32,13 +38,7 @@
         ]
       },
       {
-        "title": "Area of Focus: Karachi",
-        "paragraphs": [
-          "Karachi, Pakistan’s largest city and economic powerhouse, contributes 60% of the country’s GDP. As the nation’s commercial hub, it provides abundant employment opportunities, making it an ideal starting point for our program. By launching this initiative in Karachi, we aim to create pathways for our graduates to secure meaningful employment and build brighter futures, while addressing the city’s pressing educational challenges. Karachi’s strategic significance makes it the perfect foundation to ignite this transformative project."
-        ]
-      },
-      {
-        "title": "Student Age Group",
+        "title": "Who We Serve",
         "paragraphs": [
           "We focus on children aged 12-16 because they possess <b>longer attention spans, enhanced focus, and greater adaptability</b> compared to younger children. This age group demonstrates stronger cognitive abilities, curiosity, and maturity, coupled with a growing awareness of career opportunities, making them highly motivated to learn.",
           "Our program equips these students with essential knowledge and skills, including basic Islamic values, English, financial literacy, and vocational training, to prepare them for a brighter future."
