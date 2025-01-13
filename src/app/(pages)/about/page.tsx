@@ -26,7 +26,9 @@ export default function About() {
   return (
     <div>
       <Header/>
-      <div className="grid grid-cols-9 pt-20 text-green-786" style={{ backgroundImage: 'url(/banner.jpg)' }}>
+      <div className="bg-[url(/banner.jpg)]">
+      <div className="bg-black bg-opacity-20">
+      <div className="grid grid-cols-9 pt-20 text-green-786">
         <div className="justify-self-center col-start-1 col-end-10">
           <Image src="/logo.svg" alt="Logo" width={150} height={150}/>
         </div>
@@ -68,6 +70,8 @@ export default function About() {
             ))}
           </div>
         ))}
+      </div>
+      </div>
       </div>
     </div>
   );

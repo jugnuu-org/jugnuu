@@ -26,7 +26,7 @@ const Watch: React.FC = () => {
     <div className="h-screen overflow-hidden">
       <Header/>
       <div className="bg-[url(/banner.jpg)]">
-        <div className={`bg-black transition-all duration-300 ${isPlaying ? "bg-opacity-75" : "bg-opacity-0"}`}>
+        <div className={`bg-black transition-all ${isPlaying ? "bg-opacity-75" : "bg-opacity-20"}`}>
           <div className="grid grid-cols-9 grid-rows-[auto,auto,1fr] min-h-screen pt-20">
             <div className="justify-self-center col-start-1 col-end-10">
               <Image src="/logo.svg" alt="Logo" width={150} height={150}/>

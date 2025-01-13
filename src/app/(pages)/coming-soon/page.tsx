@@ -7,7 +7,7 @@ export default function ComingSoon() {
     <div className="h-screen overflow-hidden">
       <Header/>
       <div className="relative h-screen" style={{ backgroundImage: 'url(/banner.jpg)' }}>
-        <div className="absolute bottom-0 w-full h-full bg-black bg-opacity-50">
+        <div className="absolute bottom-0 w-full h-full bg-black bg-opacity-20">
           <div className="absolute bottom-0 w-full h-3/5 text-center">
             <p className="text-white text-7xl">
               {content.title}

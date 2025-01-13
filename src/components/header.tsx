@@ -30,7 +30,7 @@ export default function Header() {
         </div>
       </Link>
       <nav>
-        <ul className="flex space-x-8">
+        <ul className="flex space-x-8 text-xl font-bold">
         <li><a href="/watch" className="hover:text-green-786">Watch</a></li>
         <li><a href="/donate" className="hover:text-green-786">Donate</a></li>
         <li><a href="/impact" className="hover:text-green-786">Impact</a></li>
