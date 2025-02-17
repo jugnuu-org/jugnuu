@@ -3,6 +3,7 @@ export type ContentSection = {
   paragraphs: string[],
   subsections?: ContentSection[],
   postParagraphs?: string[],
+  images?: string[],
 };
   
 export type HomeContent = {
@@ -13,6 +14,11 @@ export type HomeContent = {
 export type WatchContent = {
   title: string,
   videoUrl: string,
+};
+
+export type ImpactContent = {
+  title: string,
+  sections: ContentSection[],
 };
 
 export type AboutContent = {

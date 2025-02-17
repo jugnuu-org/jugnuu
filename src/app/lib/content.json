@@ -20,6 +20,23 @@
     "title": "Watch",
     "videoUrl": "https://www.youtube.com/embed/gA2PpZbyXAk"
   },
+  "impact": {
+    "title": "Impact",
+    "sections": [
+      {
+        "title": "Day 1",
+        "paragraphs": [
+          "We are excited to have started our second cohort in January 2025! We are now serving two groups of students who are attending our program for 3 hours every Monday through Friday until the end of June. They are spending 1 hour in each of their 3 classes: digital literacy, communication, and financial literacy. These essential skills will help set them up for success in the workforce as well as in their daily lives."
+        ],
+        "images": [
+          "IMG_8112.jpg",
+          "IMG_8549.jpg",
+          "PIC.jpg",
+          "PIC2.jpg"
+        ]
+      }
+    ]
+  },
   "about": {
     "title": "About",
     "sections": [
