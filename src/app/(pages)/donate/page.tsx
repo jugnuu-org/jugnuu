@@ -1,7 +1,5 @@
 'use client'
 
-import { getImpactContent } from '@/app/lib/getText';
-import { ContentSection } from '@/app/lib/types';
 import Header from '@/components/header';
 import Image from 'next/image';
 
