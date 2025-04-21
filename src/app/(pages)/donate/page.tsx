@@ -24,7 +24,7 @@ export default function Donate() {
         </div>
         <div className="p-6 col-start-4 col-span-3 flex justify-center items-center">
           <iframe
-            src="https://donorbox.org/embed/jugnuu-ramadan-2025"
+            src="https://donorbox.org/embed/jugnuu"
             allow="payment"
             className="w-96 h-[900px]"
           />
