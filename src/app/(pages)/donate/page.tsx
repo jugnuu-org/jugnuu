@@ -29,6 +29,9 @@ export default function Donate() {
             className="w-96 h-[900px]"
           />
         </div>
+        <div className="p-6 col-start-1 col-span-9 text-center">
+          <p className="text-xl text-green-786 font-bold">Please note: all donations will be processed in USD</p>
+        </div>
       </div>
       </div>
       </div>
